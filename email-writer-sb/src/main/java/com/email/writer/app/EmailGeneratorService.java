@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 
 import java.util.Map;
-
+// Service code for Email Generator service logic
 @Service
 public class EmailGeneratorService {
 
